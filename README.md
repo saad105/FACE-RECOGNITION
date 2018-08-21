@@ -1,3 +1,3 @@
 # FACE-RECOGNITION
 
-FOR python version 2
+FOR PYTHON 2
